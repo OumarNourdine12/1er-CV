@@ -1,0 +1,74 @@
+header img{
+    height: 30vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:50%;
+
+}
+
+.column1 {
+    width: 30vw;
+    margin-right: 12px;
+    background-color: rgb(105, 139, 243);
+    color:blanchedalmond;
+    padding: 5%;
+
+}
+
+.column2 {
+    width: 65vW;
+    
+}
+
+#formation p{
+   color:  rgb(105, 139, 243);
+    color: ;
+    line-height: 2.5px;
+    font-size: 13px;
+    
+
+}
+
+
+
+
+
+.hline {
+    border-bottom:1px solid rgb(0, 0, 0);
+    margin-top: 5vh;
+
+}
+
+.datep{
+    display: flex;
+    flex-direction: row;
+}
+
+.sp {
+    margin-right: 10vw
+}
+.datep {
+    margin-right: 10vw
+}
+
+
+.sta {
+    color:rgb(105, 139, 243)
+
+}
+
+
+    .Ges {
+        color:rgb(105, 139, 243)
+    }
+
+
+    .Ag{
+        color:rgb(105, 139, 243)
+    }
+
+
+
+
+

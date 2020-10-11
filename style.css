@@ -1,0 +1,52 @@
+header img{
+    height: 30vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:50%;
+
+}
+
+
+body{
+    display: flex;
+    flex-direction: row;
+}
+
+.column1 {
+    width: 20vw;
+    margin-right: 12px;
+    background-color: rgb(145, 153, 150);
+    color:blanchedalmond;
+    padding: 5%;
+
+}
+
+.column2 {
+    width: 50vW;
+    
+}
+
+#formation p{
+    line-height: 2.5px;
+    font-size: 13px;
+    
+
+}
+
+
+
+
+
+.hline {
+    border-bottom:3px solid rgb(0, 0, 0);
+    margin-top: 5vh;
+
+}
+
+.datep{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
